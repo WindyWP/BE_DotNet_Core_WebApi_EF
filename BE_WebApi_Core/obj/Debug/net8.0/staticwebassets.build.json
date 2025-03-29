@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3vG0/p7jdPMHx7V9t0IJQ8s8lemAtCiFHv+blurauwg=",
+  "Source": "BE_WebApi_Core",
+  "BasePath": "_content/BE_WebApi_Core",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
